@@ -1,9 +1,7 @@
 
-### Hello there! 👋
+### Hello there! 👋 
 
-I'm Corinne (she/her)...
-
-- 🚀 &nbsp; Recent [Makers](https://makers.tech) Graduate: Looking to take on a role in tech, where I can further expand my knowledge in Full-Stack, Front-End development and design.
+- 🚀 &nbsp; Recent [Makers Academy](https://makers.tech) graduate
 - 🌱 &nbsp; Currently learning: Ruby, MongoDB, Express, React, Node (MERN)
 - 📝 &nbsp; More details & fun facts about me: [Read my CV](https://github.com/CorinneBosch/CV)
 - 📫 &nbsp; Email: corinne.boesch@gmail.com
